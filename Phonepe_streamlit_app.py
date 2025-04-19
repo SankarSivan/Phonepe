@@ -1,1 +1,3 @@
-Phonepe_streamlit_app.py
+import streamlit as st
+
+st.title("🎈 My new app")
