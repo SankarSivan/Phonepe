@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
-mysql-connector-python
+mysql.connector
 matplotlib
 seaborn
 plotly
+json
