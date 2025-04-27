@@ -20,10 +20,10 @@ Interactive dashboard for visualizing India's digital payment trends using Phone
 1. **Data Extraction** → 2. **Cleaning** → 3. **MySQL Storage** → 4. **Visualization**
 
 
-**📫 Contact**
+## **📫 Contact**
 
- EMail - sankar.ace@gmail.com
-
- Dashboard : https://phonepe-dashboard270425.streamlit.app/
- 
- Project Link: https://github.com/SankarSivan/Phonepe
+   EMail - sankar.ace@gmail.com
+  
+   Dashboard : https://phonepe-dashboard270425.streamlit.app/
+   
+   Project Link: https://github.com/SankarSivan/Phonepe
