@@ -27,10 +27,6 @@ def set_bg_color(color):
 # Example usage:
 set_bg_color('#e6ffe6') # Light green
 
-st.title("My Streamlit App")
-st.write("This app has a custom background color.")
-
-
 # ------------------------- MySQL DB Connection ------------------------- #
 conn = mysql.connector.connect(
     host="b0qbqnddydban6etyumx-mysql.services.clever-cloud.com",
